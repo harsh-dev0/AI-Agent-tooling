@@ -1,0 +1,2 @@
+const rot13 = str => str.replace(/[a-zA-Z]/g, c => String.fromCharCode((c <= 'Z' ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26));
+console.log(rot13('Pbatenghyngvbaf ba ohvyqvat n pbqr-rqvgvat ntrag!'));
