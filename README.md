@@ -74,7 +74,3 @@ Read the full build story, the idea behind this agent, and the step-by-step brea
 Inspired by: [ampcode.com — How to build an agent](https://ampcode.com/how-to-build-an-agent)
 
 ---
-
-```
-
-```
