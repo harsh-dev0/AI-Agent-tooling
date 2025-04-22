@@ -65,7 +65,7 @@ Build your own terminal-based AI coding assistant powered by Groq’s blazing-fa
 
 Read the full build story, the idea behind this agent, and the step-by-step breakdown in the blog post here:
 
-📖 **[👉 Coming soon](#)** — _“How I built a Groq-powered terminal agent with file tools in TypeScript”_
+📖 **[How I built a Groq-powered terminal agent with file tools in TypeScript](https://harsh-dev0.github.io/build-ai-agent-typescript)**
 
 ---
 
